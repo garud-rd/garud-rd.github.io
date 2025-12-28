@@ -13,5 +13,5 @@ I work in public financial management and write on fiscal policy, debt sustainab
 - Coming soon
 
 ## Contact
-- Email: (add)
-- LinkedIn: (add)
+- Email: garudrd@gmail.com
+- LinkedIn: https://www.linkedin.com/in/garudrd/
