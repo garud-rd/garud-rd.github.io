@@ -1,3 +1,6 @@
 title: Rahul Garud
-description: Public finance | Fiscal policy | Debt sustainability
+description: Public finance • Fiscal policy • Debt sustainability
 theme: jekyll-theme-cayman
+
+show_downloads: false
+markdown: kramdown
