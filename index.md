@@ -31,7 +31,7 @@ My interests include macro-fiscal analysis, budget institutions, cash & treasury
 ## Latest Writing
 
 I will publish short, practical pieces here—policy notes, explainers, and research summaries.
-
+- **Welcome:** [Read here](/2025/12/28/welcome.html)
 - **Policy Note 1:** *(coming soon)*  
 - **Explainer:** *(coming soon)*  
 - **Working Paper Summary:** *(coming soon)*  
